@@ -1,3 +1,4 @@
+验证git merge fast forward 模式
 BBBBB
 AAAAA
 dffgdf
